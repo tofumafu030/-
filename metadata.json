@@ -1,0 +1,6 @@
+{
+  "name": "閱讀紀錄與社交分享",
+  "description": "一個可記錄每日閱讀進度、閱讀計時器、個人閱讀統計、AI佳句摘錄與閱讀分析，並能一鍵生成美型視覺分享卡片與社群動態討論的應用程式。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-natural: #F9F7F2;
+    --ink-natural: #2C2C2B;
+    --olive-natural: #5A5A40;
+    --sand-natural: #E8E2D9;
+    --card-natural: #FFFFFF;
+  }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: var(--bg-natural);
+    color: var(--ink-natural);
+  }
+
+  h1, h2, h3, .serif {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+}
